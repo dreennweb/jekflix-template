@@ -3,6 +3,7 @@ body {
   height: 100%;
 }
 
+/* Header */
 .bar-header {
   background-color: $primaryDark;
   padding: rem(10px) rem(15px);
@@ -11,7 +12,7 @@ body {
   width: 100%;
   z-index: 10;
   transition: top 0.5s, left 0.3s ease, background-color 0.5s, box-shadow 0.5s;
-  
+
   @include media(">=sm") {
     padding: rem(15px) rem(0px);
   }
@@ -21,7 +22,6 @@ body {
     margin: 0;
     height: rem(32px);
     line-height: rem(32px);
-
     a {
       display: block;
       color: $accentDark;
@@ -35,7 +35,7 @@ body {
       width: rem(120px);
       height: rem(30px);
       transition: all .4s;
-  
+
       @include media(">=sm") {
         width: rem(205px);
       }
@@ -74,6 +74,7 @@ body {
     height: rem(30px);
     cursor: pointer;
     margin: 0;
+
     @include media(">=sm") {
       margin: 0 rem(20px) 0 0;
     }
@@ -104,6 +105,44 @@ body {
   }
 }
 
+/* RTL support */
+.rtl {
+  .bar-header {
+    .icon-menu {
+      float: right;
+      margin: rem(5px) 0 rem(5px) rem(20px);
+
+      @include media(">=sm") {
+        margin: rem(5px) rem(25px) rem(5px) 0;
+      }
+    }
+
+    .dosearch {
+      float: left;
+
+      @include media(">=sm") {
+        margin: 0 0 0 rem(20px);
+      }
+    }
+
+    .get-theme {
+      float: left;
+      margin: rem(5px) rem(5px) rem(5px) rem(15px);
+    }
+
+    .version {
+      left: 0;
+      right: auto;
+      transform: translateX(-110%);
+    }
+
+    .logo {
+      text-align: right;
+    }
+  }
+}
+
+/* Page body variations */
 body.main-page {
   background-color: #141414;
 
@@ -129,6 +168,7 @@ body.light:not(.main-page) {
   }
 }
 
+/* Overlay */
 .overlay {
   position: fixed;
   width: 100%;
