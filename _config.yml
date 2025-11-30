@@ -1,25 +1,26 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: درین - Dreenn
+title: درین - Dreenn
+description: Dreenn is a Balochi Blog, It contains posts in written Balochi but You can also find the variety of balochi novels, dictionaries and many more books.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - balochi
+  - balochistan
+  - language
+  - literature
 show_hero: true
 menu:
-  - title: Home
+  - title: لوغ
     url: /
-  - title: About
+  - title: پَجّار
     url: /about
-  - title: Contact
+  - title: کتابجاہ
+    url: /kitabjah
+  - title: مارا گوں رابطہ بکن
     url: /contact
-  - title: Feed
+  - title: نیوز فیڈ
     url: /feed.xml
-email: youremail@test.com
+email: yk278708@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -110,4 +111,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version:
