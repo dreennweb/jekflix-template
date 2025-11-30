@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "کونج مئے سیاد انت"
-date: 2025-11-30
+date: 2022-12-03
 author: Ilmdeenmazari
 description: "A reflective Balochi essay on loyalty, guardianship, and cultural values."
 tags:
