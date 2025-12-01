@@ -3,10 +3,10 @@ date: 2022-12-03 12:26:40
 layout: post
 title: سندہ ئے سیستان(ثقافت) روش دُراہیں مردماں را مُوارک بیث
 ?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+subtitle: 
 description: 
-image: https://web.archive.org/web/20221212082649im_/https://i0.wp.com/dreenn.com/wp-content/uploads/2022/12/Sindhi_Cap_Ajrak.jpg?fit=640%2C428&ssl=1
-optimized_image: https://web.archive.org/web/20221212082649im_/https://i0.wp.com/dreenn.com/wp-content/uploads/2022/12/Sindhi_Cap_Ajrak.jpg?fit=640%2C428&ssl=1
+image: https://dreennweb.github.io/assets/img/uploads/Sindhi_Cap_Ajrak.jpg
+optimized_image: https://dreennweb.github.io/assets/img/uploads/Sindhi_Cap_Ajrak.jpg
 category: culture
 tags:
   - cap
@@ -14,13 +14,13 @@ tags:
 author: mranderson
 paginate: true
 ---
-
+<style> body { direction: rtl; text-align: right; font-family: sans-serif; } </style>
 ### سندہ ئے سیستان(ثقافت) روش دُراہیں مردماں را مُوارک بیث
 
 
 ہر سال ڈِسمبر ئے پیشی شمبے(آچر) ئا سندہ ئے سیستان(ثقافت) ئے  روش ملّائینغ بیغ ، اے روش پہ سندہ ئے مردماں شہ اِئید(عید) ئا کم نئیں۔  وثی وشی ئا درشان(زاہر) کنغ ئا پہ  ہر کس  ورنا، بُلّو ، پیر او زائیفاں نوخیں گُذاں(جراں) گُرا کنت۔۔ گیشتر ورنا بلوچی شلوار ئا  گُرا کنت او بلوچی ٹوپ ئا سرا کننت۔ ۔۔ چیزے ورنا تھری شال او تھری پاغ ئا دوست دارنت۔ اے روش ئا زائیفاں گیشتریغا بلوچی پشک ئا یا تھری گھگھا گُرا  کنت۔ ھند ھندا شیئر او شائری ئے مجلس مانکایَنت ، کسائیں توڑیں  مزائیں شہراں مراگش(پروگرام) ایر بنت، ھموذا اِزمکار(فنکار) کایَنت او وثی اِزم ئے پیشدارنت۔ اے روش ملّاٛئینغ دیما سندہی میڈیا ئے یک مزائیں کِرد است۔
 
-![](https://web.archive.org/web/20221212082649im_/https://i0.wp.com/dreenn.com/wp-content/uploads/2022/12/Sindhi_Cap_Ajrak.jpg?resize=640%2C374&ssl=1)
+![](https://dreennweb.github.io/assets/img/uploads/Sindhi_Cap_Ajrak.jpg)
 
 جیکب آبادی ٹوپی
 
@@ -34,19 +34,19 @@ paginate: true
 
 اسُلی سندہی ٹوپی شِکارپوری ٹوپی ایں: شکارپوری ٹوپی یک  لونڈیں ٹوپ بیث کہ جر(گُذ) دو تہاں گوں جوڑ بیث پیشا اے ٹوپی سندہ ئے  ہندو او مسلمان ہر دومیں سرا  کنغا اثنت بلّہ مروشاں چڑو بُرچونڈی شریف ئے پیر او ہماہی مریدانی نشانی ایں۔
 
-![](https://web.archive.org/web/20221212082649im_/https://i0.wp.com/dreenn.com/wp-content/uploads/2022/12/44708873_2156982194540698_8112304447381569536_n.jpg?resize=640%2C277&ssl=1)
+![](https://dreennweb.github.io/assets/img/uploads/44708873_2156982194540698_8112304447381569536_n.jpg)
 
 اسُل سندہی ٹوپی
 
 شہ اے پذا سندہ لافا تُرکی ئے ٹوپ سکّ نامدار بیثغ : پیر پاگار او ٹالپور ہر دومیں تُرکی ٹوپ سرا کنغ اثنت۔ اے ٹوپ مزہب او شاہوکاری ئے نشان اث۔
 
-![](https://web.archive.org/web/20221212082649im_/https://i0.wp.com/dreenn.com/wp-content/uploads/2022/12/ea2eeb97aefb7dbdf73aa12aa6a84130.jpg?resize=330%2C398&ssl=1)
+![](https://dreennweb.github.io/assets/img/uploads/ea2eeb97aefb7dbdf73aa12aa6a84130.jpg)
 
 تُرکی ٹوپ
 
 چوکہ بلوچی ٹوپ سندہ ئا کلہوڑانی دؤر ئا سر بیثغ بلّہ سذیں سال گُوَزغ ئے رندا دہ سندہ ئے بازیں ادیباں را ایشی ئے وجود سندہ ئے لافا دوست نہ بیث۔۔ چو کہ من پیشا دہ گُوَئشتہ : ادیب او آفیسر شاہی ئے دنیا جُدا او لس مخلوک دُنیا جُدا: سندہ ئے لس مخلوک ادیبانی گُرا گیشتر گوش ئا نہ داریث، لس مخلوک: بلوچی ٹوپی ، بلوچی سدری او پشک او شلوار سک دوست داریث۔
 
-![](https://web.archive.org/web/20221212082649im_/https://i0.wp.com/dreenn.com/wp-content/uploads/2022/12/203998_59803535-1.jpg?resize=385%2C207&ssl=1)
+![](https://dreennweb.github.io/assets/img/uploads/203998_59803535-1.jpg)
 
 تَھری گھگھا کُثیغیں جِنک
 
@@ -54,7 +54,7 @@ paginate: true
 
 اے  وخت ئا سندہ لافا   گِران بہائیں  ٹوپی مزائیں شیشغ والائیں ٹوپیاں انت کہ ڈیر بُگٹی او جیکب آباد ئا جوڑ بنت۔ یک ٹوپی کساس(تکریبن)  10 ئا شہ 12 ہزار ئا بہا بیث۔
 
-![](https://web.archive.org/web/20221212082649im_/https://i0.wp.com/dreenn.com/wp-content/uploads/2022/12/264346392_5494862050529458_1204669672813115737_n.jpg?resize=408%2C230&ssl=1)
+![](https://dreennweb.github.io/assets/img/uploads/264346392_5494862050529458_1204669672813115737_n.jpg)
 
 پشک ئا کُثغیں جِنک
 
@@ -62,7 +62,7 @@ paginate: true
 
 منّغ مُراد ایں کہ تھری شال دہ وثی ہندا اِزم ئے یک مزائیں شاہ کارے۔ تھری شال، سک باز بلوچی شال ئے دُرّشماں جنت او اے باوَر کنائینت کہ ما اے سر ڈِغار ئے نندوخیں جُدا جُدائیں خیالانی واژہغیں مخلوک ، دُراہیں (کُل) یک دومیغی دُروشم جن اوں! دُراہیں(کُلیں) یک دومیغ ئے اکس اوں۔۔
 
-![](https://web.archive.org/web/20221212082649im_/https://i0.wp.com/dreenn.com/wp-content/uploads/2022/12/maxresdefault-1.jpg?fit=640%2C548&ssl=1)
+![](https://dreennweb.github.io/assets/img/uploads/maxresdefault-1.jpg)
 
 تَھری شال
 
